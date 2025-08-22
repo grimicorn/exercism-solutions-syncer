@@ -1,2 +1,2 @@
-# exercism-solutions-syncer
-Exercism Solutions Syncer
+# Exercism Solutions Syncer
+My solutions from Exercism
